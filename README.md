@@ -1,1 +1,1 @@
-#Namaste-React-Journey ✨
+Namaste-React-Journey ✨

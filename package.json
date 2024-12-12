@@ -1,0 +1,30 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "source": "index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhoncarter7/Namaste-Journey.git"
+  },
+  "author": "Nikhil rai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhoncarter7/Namaste-Journey/issues"
+  },
+  "homepage": "https://github.com/jhoncarter7/Namaste-Journey#readme",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "parcel": "latest",
+    "parcel-bundler": "^1.12.5",
+    "process": "^0.11.10"
+  }
+}
